@@ -1,12 +1,37 @@
-# React + Vite
+# 💼 Portfólio | Enzo Tykalowitz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Olá! Seja bem-vindo ao meu portfólio de desenvolvedor Front-End.
 
-Currently, two official plugins are available:
+Este projeto foi desenvolvido com [React](https://react.dev/) e [Vite](https://vitejs.dev/), com o objetivo de apresentar minhas habilidades, experiências, projetos e links úteis para contato.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Acesse o portfólio online:  
+👉 https://enzotyka.github.io/portfolio-
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Tecnologias Utilizadas
+
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5 e CSS3
+- Git & GitHub
+- Deploy com GitHub Pages
+
+---
+
+## 📂 Estrutura do Projeto
+
+- `src/` — arquivos principais do React (componentes, estilos e imagens)
+- `vite.config.js` — configurações de build e deploy
+- `package.json` — dependências e scripts de automação
+
+---
+
+## 🚀 Como rodar localmente
+
+```bash
+git clone https://github.com/enzotyka/portfolio-.git
+cd portfolio-
+npm install
+npm run dev
